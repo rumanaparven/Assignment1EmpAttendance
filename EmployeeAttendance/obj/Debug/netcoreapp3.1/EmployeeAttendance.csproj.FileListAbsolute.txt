@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\EmployeeAttendance\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.exe
+C:\Users\USER\source\repos\EmployeeAttendance\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.deps.json
+C:\Users\USER\source\repos\EmployeeAttendance\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.runtimeconfig.json
+C:\Users\USER\source\repos\EmployeeAttendance\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.runtimeconfig.dev.json
+C:\Users\USER\source\repos\EmployeeAttendance\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.dll
+C:\Users\USER\source\repos\EmployeeAttendance\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.pdb
+C:\Users\USER\source\repos\EmployeeAttendance\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\EmployeeAttendance\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.AssemblyInfo.cs
+C:\Users\USER\source\repos\EmployeeAttendance\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EmployeeAttendance\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.dll
+C:\Users\USER\source\repos\EmployeeAttendance\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.pdb
+C:\Users\USER\source\repos\EmployeeAttendance\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.genruntimeconfig.cache
