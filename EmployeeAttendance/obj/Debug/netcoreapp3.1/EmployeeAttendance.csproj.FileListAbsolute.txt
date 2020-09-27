@@ -10,3 +10,4 @@ C:\Users\USER\source\repos\EmployeeAttendance\EmployeeAttendance\obj\Debug\netco
 C:\Users\USER\source\repos\EmployeeAttendance\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.dll
 C:\Users\USER\source\repos\EmployeeAttendance\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.pdb
 C:\Users\USER\source\repos\EmployeeAttendance\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.genruntimeconfig.cache
+C:\Users\USER\source\repos\EmployeeAttendance\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.csprojAssemblyReference.cache
