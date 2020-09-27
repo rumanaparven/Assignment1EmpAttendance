@@ -18,7 +18,7 @@ namespace EmployeeAttendance
 
 
                 Random random = new Random();
-                int check = random.Next(0, 2);
+                int check = random.Next(0, 3);
                 switch (check)
                 {
                     case is_part_time:
